@@ -5,3 +5,7 @@
     - shell:startup
     - copy .bat script 
 
+
+For security bypass to activate (.venv)
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
